@@ -1,0 +1,37 @@
+{
+    "MAHASISWA" : [{
+        "Nim" : 185150700111009,
+        "Nama" : "Muhammad Reza Utama Pulungan",
+        "Angkatan" : "2018",
+        "Kelas" : "Pemrograman Integratif - A",
+        "MataKuliah" : [
+            {
+                "Kode" : "CIT61021",
+                "Nama" : "Data Warehouse",
+                "SKS"  : 4
+            },
+              {
+                "Kode" : "CIT62014",
+                "Nama" : "Implementasi dan Evaluasi Sistem Informasi",
+                "SKS"  : 3
+            },
+            {
+                "Kode" : "CIT62013",
+                "Nama" : "Administrasi Basis Data",
+                "SKS"  : 4
+            },
+             {
+                "Kode" : "CIT61022",
+                "Nama" : "Pemrograman Integratif",
+                "SKS"  : 4
+            },
+            {
+                "Kode" : "COM60051",
+                "Nama" : "Metodologi Penelitian dan Penulisan Ilmiah",
+                "SKS"  : 3
+            }
+
+        ]
+        
+    }]
+}

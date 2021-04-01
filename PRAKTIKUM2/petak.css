@@ -1,0 +1,18 @@
+body{
+    background: bisque;
+	font-family: sans-serif;
+}
+.catur{
+    width: 800px;
+    height: 800px;
+}
+.whitebox{
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+.blackbox{
+    width: 100px;
+    height: 100px;
+    background: black;
+}

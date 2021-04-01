@@ -1,0 +1,18 @@
+{
+    "Toko_A" : [{
+        "nama" : "OLSHOPBABY",
+        "Owner" : "JOKO",
+        "Diapers" : {
+            "Stok" : 7,
+            "Harga" : 80000
+        },
+        "Susu" : {
+            "Stok" : 23,
+            "Harga" : 99000
+        },
+        "Baju_Bayi" : {
+            "Stok" : 19,
+            "Harga" : 125000
+        }
+    }]
+}

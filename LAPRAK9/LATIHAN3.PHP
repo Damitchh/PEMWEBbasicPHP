@@ -1,0 +1,11 @@
+<?php
+  $myFile = "testFile2.txt";
+  $fh = fopen($myFile, 'w') or die("can't open file");
+  $stringData = "Bobby Bopper\n";
+  fwrite($fh, $stringData);
+  $stringData = "Tracy Tanner\n";
+  fwrite($fh, $stringData);
+  $theData =file_get_contents($myFile);
+  fclose($fh);
+  echo $theData;
+?>

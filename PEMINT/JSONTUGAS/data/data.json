@@ -1,0 +1,88 @@
+{
+    "MaticShop": {
+        "Nama": "Toko Motor Matic",
+        "Owner": "Damitch",
+        "Produk": [
+            {
+                "Nama": "Kenalpot ",
+                "Stok": 10,
+                "Harga": 1700000,
+                "Gambar": "Kenalpot.png"
+            },
+            {
+                "Nama": "Cover Radiator",
+                "Stok": 12,
+                "Harga": 120000,
+                "Gambar": "coverradiator.jpg"
+            },
+            {
+                "Nama": "Shock Belakang",
+                "Stok": 34,
+                "Harga": 750000,
+                "Gambar": "shockbelakang.jpg"
+            },
+            {
+                "Nama": "Paket Upgrade CVT",
+                "Stok": 26,
+                "Harga": 600000,
+                "Gambar": "paketcvt.jpg"
+            },
+            {
+                "Nama": "Pulley Bubut",
+                "Stok": 27,
+                "Harga": 150000,
+                "Gambar": "pulleybubut.jpg"
+            },
+            {
+                "Nama": "Per CVT",
+                "Stok": 104,
+                "Harga": 100000,
+                "Gambar": "percvt.jpg"
+            },
+            {
+                "Nama": "Roller 10g",
+                "Stok": 23,
+                "Harga": 35000,
+                "Gambar": "roller.jpg"
+            },
+            {
+                "Nama": "Ecu Juken 5",
+                "Stok": 4,
+                "Harga": 3000000,
+                "Gambar": "juken5.jpg"
+            },
+            {
+                "Nama": "Ban",
+                "Stok": 28,
+                "Harga": 7000000,
+                "Gambar": "ban.jpg"
+            }
+        ]
+    }
+}
+    
+{
+    "Pasien": [
+        {
+            "nomor_pasien":,
+            "nama":,
+            "tanggal_lahir":,
+            "jenis_kelamin":,
+            "waktu_berobat":,
+            "nama_dokter":,
+            "data_medis":{
+                      "keluhan":,
+                      "riwayat_penyakit":,
+                      "alergi": ,
+                      "riwayat_keluarga":,
+                      "lama_keluhan":,
+                      "hasil_diagnosa":,
+                      "resep_obat":,
+                      "tanggal_kunjungan_kembali":,
+                      "terapi":,
+                      "rujukan"
+                    
+            }
+        }
+    ]
+}
